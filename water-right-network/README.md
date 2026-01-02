@@ -1,6 +1,5 @@
 ---
 description: 'Connecting the Dots: Building Transparency into Utah’s Water Rights System'
-layout: landing
 ---
 
 # Water Right Network
