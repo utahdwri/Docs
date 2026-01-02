@@ -1,14 +1,11 @@
 ---
 description: 'Connecting the Dots: Building Transparency into Utah’s Water Rights System'
+layout: landing
 ---
 
 # Water Right Network
 
-> _The Utah Water Right Network is a geospatial dataset managed by the Utah Division of Water Rights (DWRi), an agency within the Department of Natural Resources, to regulate and distribute the state's water resources. Utah's arid climate and limited water supply, compared to its extensive arable land, necessitate a legal framework for water allocation based on the Doctrine of Prior Appropriation. This doctrine prioritizes water rights based on the earliest documented beneficial use, meaning older rights (senior) take precedence over newer ones (junior) when water supply is limited._&#x20;
->
->
->
-> The Water Right Network (WRN) was launched in March 2022. Its purpose is to integrate statewide hydrologic and administrative data, including accounting models, into a single framework. This approach supports internal management and improves transparency. The importance of the WRN was affirmed by the 2023 Legislative Audit, which recommended continued development.<br>
+> _The Utah Water Right Network (WRN) is a geospatial dataset managed by the Utah Division of Water Rights (DWRi), an agency within the Department of Natural Resources, to regulate and distribute the state's water resources. The WRN was launched in March 2022. Its purpose is to integrate statewide hydrologic and administrative data, including accounting models, into a single framework. This approach supports internal management and improves transparency. The importance of the WRN was affirmed by the 2023 Legislative Audit, which recommended continued development._<br>
 
 <details>
 
